@@ -21,7 +21,7 @@
 <ul>
   <li>👨🏻‍🎓 I graduated in Cross-Platform Application Development.</li>
   <li>📚 I am currently pursuing a Master's degree in Artificial Intelligence and Big Data.</li>
-  <li>⌨️ I have nearly two years of professional experience in my programming in Kotlin.</li>
+  <li>⌨️ I have nearly two years of professional experience programming in Kotlin.</li>
   <li>⛰ In my free time, I enjoy watching movies and doing some sport, especially hiking!</li>
   <li>📍 I currently live in the USA.</li>
 </ul>
