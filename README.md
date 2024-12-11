@@ -24,6 +24,7 @@
   <li>⌨️ I have nearly two years of professional experience programming in Kotlin.</li>
   <li>⛰ In my free time, I enjoy watching movies and doing some sport, especially hiking!</li>
   <li>📍 I currently live in the USA.</li>
+  <li>📄 Please, take a look to my Resume  <a href="https://drive.google.com/file/d/1iS8TGhzXnp8dHNc6nlN5lFDi1XipvaTw/view?usp=sharing"></li>
 </ul>
 
 <!-- TECH STACK -->
