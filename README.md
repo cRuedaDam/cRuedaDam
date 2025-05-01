@@ -25,7 +25,7 @@
   <li>⛰ In my free time, I enjoy watching movies and doing some sport, especially hiking!</li>
   <li>📍 I currently live in the USA.</li>
   <li>📄 Please, take a look at my 
-      <a href="https://drive.google.com/file/d/12eodETrpJ_yA54rDGWnLgmJlrX6VZAod/view?usp=drivesdk"target="_blank">Resume</a>
+      <a href="https://drive.google.com/file/d/1kWccmuikvPD-S2EJabyV7Bn3653lNM6v/view?usp=share_link"target="_blank">Resume</a>
   </li>
 </ul>
 
